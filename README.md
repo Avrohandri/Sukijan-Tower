@@ -8,7 +8,7 @@ Sukijan Tower is a fastpaced parkour challenge where players climb a perilous to
 1️⃣ Download the .rblx File from GitHub
 
 1. Go to the Releases tab or open the folder where the .rblx file is stored.
-2. Click the file SUKI_PARKOUR_EASY_MODE.rblx.
+2. Click the .rblx file.
 3. Download the file.
 4. Open Roblox Studio.
 5. Select File → Open…
