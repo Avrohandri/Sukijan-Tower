@@ -15,6 +15,6 @@ Sukijan Tower is a fastpaced parkour challenge where players climb a perilous to
 6. Locate and open the downloaded .rblx file.
 7. Press Play to test the game directly in Roblox Studio.
 
-2️⃣ Play Directly on Roblox
+2️⃣ Play Directly on Robloxs
 
 If you prefer to play without downloading, visit the my Roblox page: https://www.roblox.com/share?code=46abd030fde00b47bdcd6e504e711669&type=ExperienceDetails&stamp=1764949775636
